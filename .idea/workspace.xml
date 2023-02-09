@@ -5,26 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41023821-64c9-4ede-a299-373cc5f484e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DialogoWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogoMac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogoWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Menu.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WindowDialogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dialogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dialogoMac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ClienteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/DialogoWindowsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FabricaDialogoMacTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FabricaDialogoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FabricaDialogoWindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/WindowDialogoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/dialogoMacTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/dialogoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DialogoWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DialogoWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogoMac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogoMac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogoWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FabricaDialogoWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WindowDialogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WindowDialogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dialogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dialogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dialogoMac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dialogoMac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -57,18 +59,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
       <recent name="org.example" />
     </key>
   </component>
@@ -81,10 +92,23 @@
       <option name="presentableId" value="Default" />
       <updated>1675964682554</updated>
       <workItem from="1675964684596" duration="3780000" />
+      <workItem from="1675968488380" duration="1055000" />
     </task>
+    <task id="LOCAL-00001" summary="Falta test">
+      <created>1675968780049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675968780049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Falta test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta test" />
   </component>
 </project>
