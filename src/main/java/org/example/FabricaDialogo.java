@@ -1,2 +1,5 @@
-package org.example;public class FabricaDialogo {
+package org.example;
+
+interface FabricaDialogo {
+    dialogo crearDialogo();
 }

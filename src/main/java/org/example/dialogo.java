@@ -1,2 +1,7 @@
-package org.example;public interface Dialogo {
+package org.example;
+
+interface dialogo {
+    void render();
+
+    void mostrarMensaje();
 }
